@@ -1,0 +1,9 @@
+.\task02\rt_task.o: RTX\Src\rt_Task.c
+.\task02\rt_task.o: .\RTX\Inc\rt_TypeDef.h
+.\task02\rt_task.o: .\RTX\Inc\RTX_Config.h
+.\task02\rt_task.o: .\RTX\Inc\rt_System.h
+.\task02\rt_task.o: .\RTX\Inc\rt_Task.h
+.\task02\rt_task.o: .\RTX\Inc\rt_List.h
+.\task02\rt_task.o: .\RTX\Inc\rt_MemBox.h
+.\task02\rt_task.o: .\RTX\Inc\rt_Robin.h
+.\task02\rt_task.o: .\RTX\Inc\rt_HAL_CM.h
